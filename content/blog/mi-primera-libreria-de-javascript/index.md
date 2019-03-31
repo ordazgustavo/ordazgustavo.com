@@ -40,7 +40,7 @@ npm i here-maps-react
 
 ## ¿Cómo usar?
 
-### \<HEREMap />
+### HEREMap
 
 ```jsx
 import React from 'react'
@@ -60,7 +60,7 @@ class Map extends React.Component {
 }
 ```
 
-### \<Marker />
+### Marker
 
 ```jsx
 import React from 'react'
@@ -82,7 +82,7 @@ class Map extends React.Component {
 }
 ```
 
-### \<RouteLine />
+### RouteLine
 
 ```jsx
 import React from 'react'
