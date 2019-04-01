@@ -1,2 +1,3 @@
 https://laughing-sinoussi-5bb7c1.netlify.com/* https://ordazgustavo.com/:splat 301!
-https://blog.ordazgustavo.com/* https://ordazgustavo.com/blog/:splat 301!
+https://blog.ordazgustavo.com/posts/* https://ordazgustavo.com/blog/:splat 301!
+https://blog.ordazgustavo.com/* https://ordazgustavo.com/:splat 301!
