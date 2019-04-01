@@ -104,7 +104,6 @@ export default function Post({data: {site, mdx}}) {
           {description ? <Markdown>{description}</Markdown> : null}
           <MDXRenderer>{mdx.code.body}</MDXRenderer>
         </Container>
-        {/* <SubscribeForm /> */}
       </article>
       <Container noVerticalPadding>
         <Share
