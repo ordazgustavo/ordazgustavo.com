@@ -1,10 +1,20 @@
 export default [
   {
+    id: 'crehana',
+    company: 'crehana',
+    location: 'Lima, PE',
+    position: 'Front-end Developer',
+    date: {from: '2019-05-01', to: ''},
+    description: `Miembro del equipo de B2B. Parte del equipo encargado de la 
+    internacionalización. Anterior miembro del equipo de Learning Experience, 
+    liderando la ejecución del proyecto de Teacher Center por parte del front end.`,
+  },
+  {
     id: 'urbaner',
     company: 'Urbaner',
     location: 'Lima, PE',
     position: 'Front-end Developer',
-    date: { from: '2018-05-01', to: '' },
+    date: {from: '2018-05-01', to: '2019-05-01'},
     description: `Encargado del mantenimiento e inclusion de mejoras en las
     tres aplicaciones principales de la empresa (Admin, App Client y Merchant
     Client)`,
@@ -14,7 +24,7 @@ export default [
     company: 'Cambista Online',
     location: 'Lima, PE',
     position: 'Full-stack Developer',
-    date: { from: '2017-08-01', to: '2018-04-01' },
+    date: {from: '2017-08-01', to: '2018-04-01'},
     description: `Encargado de la administración y mantenimiento del sistema, 
     implementación de nuevas características, mejoras de las existentes. 
     Mantenimiento del servidor. Realizada actividad de migración de servidor. 
@@ -27,7 +37,7 @@ export default [
     company: 'IA Policía Municipal de Maneiro',
     location: 'Pampatar, VE',
     position: 'Pasante',
-    date: { from: '2017-01-01', to: '2017-05-01' },
+    date: {from: '2017-01-01', to: '2017-05-01'},
     description: `Realizada actividad de pasantía como requisito para optar por el
     título de Ingeniero de Sistemas, en la cual se desarrolló un sistema
     automatizado de entorno web llamado SAGA a ser implantado en los
@@ -41,7 +51,7 @@ export default [
     company: 'ENGINEXT Corporation',
     location: 'Houston, USA',
     position: 'Administrador de base de datos',
-    date: { from: '2016-02-01', to: '2016-05-01' },
+    date: {from: '2016-02-01', to: '2016-05-01'},
     description: `Gestión y mantenimiento de la Base de Datos del sistema 
     e-Talent. Implementadas mejoras en el sistema de codificación de los resume,
     así como revisión de la operatividad del sistema, identificando áreas
